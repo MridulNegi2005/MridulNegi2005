@@ -1,6 +1,6 @@
-![Mridul Negi. Python, software and applied AI.](assets/nameplate.svg)
+![Mridul Negi. Learning by building.](assets/nameplate.svg)
 
-Computer engineering student at **Thapar · Class of 2027**. My projects span Python backends, applied AI, and assistive hardware.
+My projects range from adaptive agents to assistive hardware.
 
 **[Website](https://mridulnegi.dev)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/mridulnegi/)**
 
