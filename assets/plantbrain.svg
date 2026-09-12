@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-label="PlantBrain — Answers with a source."><rect width="760" height="330" rx="12" fill="#EFE9DF"/>
+    <path d="M34 44h35" stroke="#C35F32" stroke-width="5"/>
+    <text x="32" y="215" font-family="Georgia,serif" font-size="51" fill="#42352A">PlantBrain</text>
+    <text x="35" y="258" font-family="Arial,sans-serif" font-size="21" fill="#42352A" opacity=".8">Answers with a source.</text>
+    
+<rect x="538" y="57" width="133" height="174" rx="6" fill="#E2D5C1" stroke="#BCAF98"/>
+<path d="M562 92h77m-77 19h58m-58 19h77m-77 19h49" stroke="#A39075" stroke-width="5"/>
+<rect x="471" y="155" width="143" height="99" rx="7" fill="#FFFDF8" stroke="#C7B7A1"/>
+<path d="M493 184h92m-92 18h72m-72 18h43" stroke="#8C7962" stroke-width="5"/>
+<circle cx="616" cy="246" r="22" fill="#C35F32"/>
+<path d="M606 246l7 7 13-15" fill="none" stroke="#FFFDF8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

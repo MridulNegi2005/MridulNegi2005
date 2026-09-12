@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-label="Braillix — One motor. Six braille dots."><rect width="760" height="330" rx="12" fill="#183D53"/>
+    <path d="M34 44h35" stroke="#AFD7E9" stroke-width="5"/>
+    <text x="32" y="215" font-family="Georgia,serif" font-size="51" fill="#EEF5F8">Braillix</text>
+    <text x="35" y="258" font-family="Arial,sans-serif" font-size="21" fill="#EEF5F8" opacity=".8">One motor. Six braille dots.</text>
+    
+<path d="M482 43h163v195H482z" fill="none" stroke="#41677E" stroke-width="2"/>
+<circle cx="535" cy="82" r="19" fill="#D7EFF7" stroke="#7BADC4" stroke-width="2"/><circle cx="535" cy="140" r="19" fill="#88BAD0" stroke="#7BADC4" stroke-width="2"/><circle cx="535" cy="198" r="19" fill="#284D63" stroke="#7BADC4" stroke-width="2"/><circle cx="593" cy="82" r="19" fill="#284D63" stroke="#7BADC4" stroke-width="2"/><circle cx="593" cy="140" r="19" fill="#D7EFF7" stroke="#7BADC4" stroke-width="2"/><circle cx="593" cy="198" r="19" fill="#88BAD0" stroke="#7BADC4" stroke-width="2"/><path d="M565 240v25M526 265h78" stroke="#88BAD0" stroke-width="3"/>
+<circle cx="565" cy="280" r="12" fill="none" stroke="#88BAD0" stroke-width="3"/>
+</svg>

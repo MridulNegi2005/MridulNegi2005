@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-label="The Loop — Find your next campus event."><rect width="760" height="330" rx="12" fill="#302249"/>
+    <path d="M34 44h35" stroke="#B695DA" stroke-width="5"/>
+    <text x="32" y="215" font-family="Georgia,serif" font-size="51" fill="#F2EAF9">The Loop</text>
+    <text x="35" y="258" font-family="Arial,sans-serif" font-size="21" fill="#F2EAF9" opacity=".8">Find your next campus event.</text>
+    
+<rect x="474" y="46" width="176" height="124" rx="12" transform="rotate(-9 562 108)" fill="#513C6D" stroke="#7D609D"/>
+<rect x="502" y="123" width="181" height="122" rx="12" transform="rotate(8 592 184)" fill="#D5BDE9"/>
+<path d="M529 154h85m-85 19h121m-121 19h65" stroke="#74528F" stroke-width="5"/>
+<circle cx="649" cy="232" r="25" fill="#F2EAF9"/>
+<path d="M638 232h21m-8-9 9 9-9 9" fill="none" stroke="#74528F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

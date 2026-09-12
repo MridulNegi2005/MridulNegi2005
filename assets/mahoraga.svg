@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-label="Mahoraga — Combat that adapts."><rect width="760" height="330" rx="12" fill="#25251F"/>
+    <path d="M34 44h35" stroke="#D3B267" stroke-width="5"/>
+    <text x="32" y="215" font-family="Georgia,serif" font-size="51" fill="#F5EEDB">Mahoraga</text>
+    <text x="35" y="258" font-family="Arial,sans-serif" font-size="21" fill="#F5EEDB" opacity=".8">Combat that adapts.</text>
+    <circle cx="595" cy="160" r="123" fill="none" stroke="#4D4733"/><ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="230" height="230" x="480" y="46">
+  <ns0:defs>
+    
+    <ns0:filter id="drop-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <ns0:feDropShadow dx="10" dy="20" stdDeviation="14" flood-color="#000000" flood-opacity="0.85" />
+    </ns0:filter>
+
+    
+    <ns0:linearGradient id="metalGrad" x1="10%" y1="10%" x2="90%" y2="90%" gradientUnits="userSpaceOnUse">
+      <ns0:stop offset="0%" stop-color="#D4AF37" />
+      <ns0:stop offset="20%" stop-color="#FFF2A8" /> 
+      <ns0:stop offset="35%" stop-color="#8B631C" /> 
+      <ns0:stop offset="50%" stop-color="#3D2600" /> 
+      <ns0:stop offset="65%" stop-color="#FCE17A" /> 
+      <ns0:stop offset="85%" stop-color="#D4AF37" />
+      <ns0:stop offset="100%" stop-color="#4A2E00" />
+    </ns0:linearGradient>
+
+    
+    <ns0:linearGradient id="highlightGrad" x1="0%" y1="0%" x2="100%" y2="100%" gradientUnits="userSpaceOnUse">
+      <ns0:stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <ns0:stop offset="50%" stop-color="#FCE17A" stop-opacity="0.3" />
+      <ns0:stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.8" />
+    </ns0:linearGradient>
+
+    
+    <ns0:radialGradient id="sphereGrad" cx="32%" cy="30%" r="70%">
+      <ns0:stop offset="0%" stop-color="#FFFFFF" />
+      <ns0:stop offset="12%" stop-color="#FCE17A" />
+      <ns0:stop offset="35%" stop-color="#C29221" />
+      <ns0:stop offset="65%" stop-color="#6B4A08" />
+      <ns0:stop offset="88%" stop-color="#2E1F02" />
+      <ns0:stop offset="100%" stop-color="#140C00" />
+    </ns0:radialGradient>
+
+    
+    <ns0:radialGradient id="glareGrad" cx="50%" cy="50%" r="50%">
+      <ns0:stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <ns0:stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </ns0:radialGradient>
+
+    
+    <ns0:g id="spokes-and-ring">
+      <ns0:line x1="500" y1="500" x2="500" y2="110" />
+      <ns0:line x1="500" y1="500" x2="775.77" y2="224.23" />
+      <ns0:line x1="500" y1="500" x2="890" y2="500" />
+      <ns0:line x1="500" y1="500" x2="775.77" y2="775.77" />
+      <ns0:line x1="500" y1="500" x2="500" y2="890" />
+      <ns0:line x1="500" y1="500" x2="224.23" y2="775.77" />
+      <ns0:line x1="500" y1="500" x2="110" y2="500" />
+      <ns0:line x1="500" y1="500" x2="224.23" y2="224.23" />
+      <ns0:circle cx="500" cy="500" r="230" fill="none" />
+    </ns0:g>
+
+    
+    <ns0:g id="orb">
+      <ns0:circle cx="0" cy="0" r="75" fill="url(#sphereGrad)" />
+      
+      <ns0:ellipse cx="-28" cy="-28" rx="24" ry="14" transform="rotate(-40 -28 -28)" fill="url(#glareGrad)" />
+    </ns0:g>
+  </ns0:defs>
+
+  
+  <ns0:g filter="url(#drop-shadow)">
+    
+    
+    <ns0:use href="#spokes-and-ring" stroke="#211500" stroke-width="40" stroke-linecap="round" />
+    
+    
+    <ns0:use href="#spokes-and-ring" stroke="url(#metalGrad)" stroke-width="32" stroke-linecap="round" />
+    
+    
+    <ns0:use href="#spokes-and-ring" stroke="#1A1100" stroke-width="10" stroke-linecap="round" opacity="0.6" transform="translate(4, 4)" />
+    
+    
+    <ns0:use href="#spokes-and-ring" stroke="url(#highlightGrad)" stroke-width="7" stroke-linecap="round" transform="translate(-3, -3)" />
+
+    
+    <ns0:use href="#orb" x="500" y="110" />
+    <ns0:use href="#orb" x="775.77" y="224.23" />
+    <ns0:use href="#orb" x="890" y="500" />
+    <ns0:use href="#orb" x="775.77" y="775.77" />
+    <ns0:use href="#orb" x="500" y="890" />
+    <ns0:use href="#orb" x="224.23" y="775.77" />
+    <ns0:use href="#orb" x="110" y="500" />
+    <ns0:use href="#orb" x="224.23" y="224.23" />
+
+    
+    
+    <ns0:circle cx="500" cy="500" r="105" fill="url(#sphereGrad)" />
+    
+    <ns0:circle cx="500" cy="500" r="68" fill="url(#sphereGrad)" />
+    
+    
+    <ns0:ellipse cx="460" cy="460" rx="32" ry="18" transform="rotate(-40 460 460)" fill="url(#glareGrad)" />
+    <ns0:ellipse cx="478" cy="478" rx="16" ry="10" transform="rotate(-40 478 478)" fill="url(#glareGrad)" />
+
+  </ns0:g>
+</ns0:svg></svg>
